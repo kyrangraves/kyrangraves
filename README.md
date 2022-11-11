@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @kyrangraves, a Postgraduate Research Student in Marine Science at University of Plymouth. I specialised in deep-sea ecology, and I am currently developing 
-     statistical models to predict the distribution of deep-sea biotopes in the North Atlantic.
+- 👋 Hi, I’m @kyrangraves, a PhD Student in Marine Science at University of Plymouth.
 - I am contactable on kyran.graves@plymouth.ac.uk or @KyranGraves on Twitter. 
 
 <!---
